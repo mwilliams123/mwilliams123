@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megan</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A full-stack software engineer</h3>
 
 - 🔭 I’m currently working on [A Jeopardy! Archive Search hosted on AWS](https://github.com/mwilliams123/j-search)
 - 💬 Ask me about **AWS, Front End Web Development, Machine Learning for NLP**
